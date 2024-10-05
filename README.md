@@ -1,7 +1,7 @@
 # subtitles_from_audio
 Get srt subtitles from any audio, video file. 
 
-Optionally, it allows to embed subtitles into video mp4 files. 
+Optionally, it allows to embed subtitles back into video mp4 files. 
 
 It should work with any language supported by the whisprex large models.
 
